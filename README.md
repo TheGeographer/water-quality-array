@@ -18,7 +18,7 @@ The device consists of off-the-self components connected together within a water
 
 The image below shows how the components area assembled within the water-resistance housing:
 
-![Assembled array]https://raw.githubusercontent.com/TheGeographer/water-quality-array/master/Assembled_Array.jpg
+![alt text](https://raw.githubusercontent.com/TheGeographer/water-quality-array/master/Assembled_Array.jpg "Assembled array")
 
 Assemble as follows:
 1. Connect the Tentacle Shield to the Arduino Uno/RedBoard and install all Atlas Scientific "stamp" controllers to the Tentacle Shield.
