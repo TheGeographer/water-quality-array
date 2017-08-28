@@ -17,7 +17,9 @@ The device consists of off-the-self components connected together within a water
 * 4.7K ohm resistor, from https://www.sparkfun.com/products/10969
 
 The image below shows how the components area assembled within the water-resistance housing:
-[image]
+
+![Assembled array]https://raw.githubusercontent.com/TheGeographer/water-quality-array/master/Assembled_Array.jpg
+
 Assemble as follows:
 1. Connect the Tentacle Shield to the Arduino Uno/RedBoard and install all Atlas Scientific "stamp" controllers to the Tentacle Shield.
 2. Set the jumpers on the Tentacle Shield to I2C mode.
