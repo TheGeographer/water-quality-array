@@ -31,6 +31,7 @@ Assemble as follows:
 8. Connect jumper wires from the mini bread board 5V power and GND rows to the power and ground on the Bluetooth adaptor.
 9. Connect the RXD on the Bluetooth adaptor to pin 6 on the RedBoard.
 10. Connect the TXD on the Bluetooth adaptor to pin 5 on the RedBoard.
+11. Connect the barrel power connector from the RedBoard to the 6x AA battery holder.
 
 You're now ready to upload the Arduino code below to the device and initiate testing.
 
