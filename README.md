@@ -46,3 +46,13 @@ The Arduino code was built using the Arduino IDE (version 1.6.8, available at ht
 ## Android apps
 The Android apps were built using MIT App Inventor 2 Beta (nb155 Component Release, available at http://ai2.appinventor.mit.edu) and the exported .aia are available here. To replicate, use the "Import" functionality within App Inventor to import these projects.
 
+## Device probe and kayak mount
+For the prototype, we constructed our kayak mount using a stock fishing pole mount. On this platform, we added aluminum brackets that would hold the probe mounts (see photo). The probe mounts are held in the aluminum brackets using rubberbands above and below. This allows the probe mounts to be set at various depths and swing and snap back into place when either hitting objects, e.g. rocks, or when vegetation accumulated on the probe holder. 
+
+![alt text](https://raw.githubusercontent.com/TheGeographer/water-quality-array/master/Detail_of_Mount.jpg "Details of mount")
+
+This relatively primitive mount, while successful in our initial testing, needs substantial refinement. The probe would either creep up or down when hitting objects, and, more importantly, was not self-cleaning when encountering vegetation. The probes are out of reach of the paddler and would require the assistance of another paddler to clean.
+
+![alt text](https://raw.githubusercontent.com/TheGeographer/water-quality-array/master/Mounted_on_Kayak.jpg "In use on kayak")
+
+The probe mounts are carbon arrow shafts glued to 1" diameter PVC pipe using JB Weld marine epoxy. These turned out to be light, durable, and did a sufficient job of protecting the probes as they moved through the water. Multiple angled holes were drilled into the PVC to facilitate water movement through the probe housing.
